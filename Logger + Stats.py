@@ -1,6 +1,5 @@
 #Health Management System Logger
 #3 patients are required to log their food and physical exercises
-# 💢 Vaibhav 💢
 
 def getdate():
     import datetime
